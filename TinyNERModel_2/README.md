@@ -1,5 +1,9 @@
 ## TinyNERModel_2
+Model-Architecture :  **Encoder** ( Embedding + LSTM )  ----> **LinearClassifier** ( Linear-Layer )
 
+Dataset : __"manu/wnut_17"__
+
+Tokenizer : **"bert-base-uncased"**
 
 ### نتایج عملکرد مدل روی داده های تست
 
