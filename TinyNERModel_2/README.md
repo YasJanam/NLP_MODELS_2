@@ -5,6 +5,8 @@ Dataset : __"manu/wnut_17"__
 
 Tokenizer : **"bert-base-uncased"**
 
+num_epochs : **6**
+
 ### نتایج عملکرد مدل روی داده های تست
 
 | Entity / Metric      | Precision | Recall | F1-score | Number of Instances |
