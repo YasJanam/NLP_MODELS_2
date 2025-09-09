@@ -1,4 +1,4 @@
-## Labratory
+## Labratory_3
 یک سری تغییرات در معماری انکودر انجام شده و مدل دوباره اموزش دیده
 
 **Encoder-Architecture** (New) :
