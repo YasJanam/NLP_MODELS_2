@@ -2,6 +2,7 @@
 
 | num_Folder |dependent on the code| name | Task | Model-Type | توضیحات | 
 |:-----:|:--:|:------------------------:|:---:|:-----:|:---------------------------------------------------------:|
+| 7 | 6 | seq_classification_models_7 | sentiment-analysis (seq-classification) | Sequence-Classification (encoder-only)| اصلاح و ماژولار کردن کد ۶ ، سه مدل برای طبقه بندی متن |
 | 6 | - | sentiment_analysis_model_6 | sentiment-analysis (seq-classification) | Sequence-Classification (encoder-only) | سه مدل برای طبقه بندی متن |
 | 5 | 2 | Labratory_TinyNERModel_5 | NER | Token-Classification | افزایش دیتای دیتاست , اعمال تغییرات رو بلاک انکودر |
 | 4 | - | DataAugmentation_4 | DataAugmentation | - | افزایش دیتای یک دیتاست    |
