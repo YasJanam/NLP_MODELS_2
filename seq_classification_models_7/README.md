@@ -1,6 +1,8 @@
 ## seq_classification_models_7
 اصلاح شده کد فایل sentiment_analysis_model_6 : رفع خطا ها ، ماژولار کردن کد
 
+لینک فایل sentiment_analysis_model_6:  
+https://github.com/YasJanam/NLP_MODELS_2/tree/main/sentiment_analysis_model_6
 ### توضیح کلی
 این کد پیاده سازی چند تا attention و FFN هستش که عملکردشون روی سه دیتاست بررسی میشه.  
 ساختار کد ماژولار هست، یعنی هر چقدر بخاین میتونین Attention , ffn تعریف کنید، به راحتی از طریق کلاس CustomTransformer سرِ هم میشن و یک ترنسفورمر جدید دارید.  
