@@ -1,7 +1,7 @@
 ## seq_classification_models_8
 کدِ seq_classification_models_7 همراه با پیاده سازی MultiHeadAttention.  
 لینک کد seq_classification_models_7 :  
-https://github.com/YasJanam/NLP_MODELS_2/blob/main/seq_classification_models_7/view_seq_classification_models_7.ipynb
+https://github.com/YasJanam/NLP_MODELS_2/tree/main/seq_classification_models_7
 #### خلاصه ای از کد
 پیاده سازی سه attention هیبریدی و ۴ بلاک feedforward برای ساخت ترنسفورمر.  
 پیاده سازی MultiHeadAttention.    
