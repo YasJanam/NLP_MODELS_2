@@ -14,7 +14,7 @@
 
 ### دیتاست ها
 سه دیتاست استفاده شده :
-یک دیتاست ۲۰ کلاسه ، sst5 , imdb. 
+یک دیتاست ۲۰ کلاسه ، sst5 , imdb.   
 لینک دیناست ۲۰ کلاسه :
 https://github.com/YasJanam/NLP_MODELS_2/tree/main/sentiment_analysis_model_6/dataset(20_classes)  
 
