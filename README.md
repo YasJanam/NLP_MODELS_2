@@ -2,6 +2,8 @@
 
 | num_Folder |related to| name | Task | Model-Type | توضیحات | 
 |:-----:|:--:|:------------------------:|:---:|:-----:|:---------------------------------------------------------:|
+| 10 | - | FullFineTune_RoBERTa_10 | sentiment-analysis(seq-classification) | BERT(RoBERTa) | فول فاین تیون مدل روبِرتا روی دو دیتاست |
+| 9 | - | FullFineTune_distilBERT_9 | sentiment-analysis(seq-classification) | BERT(distilBERT) | FineTune(full) distilBERT on two datasets |
 | 8 | 7 | seq_classification_models_8 | sentiment-analysis (seq-classification) | Sequence-Classification (encoder-only)| MultiHeadAettntion کد 7، پیاده کردن |
 | 7 | 6 | seq_classification_models_7 | sentiment-analysis (seq-classification) | Sequence-Classification (encoder-only)| اصلاح و ماژولار کردن کد ۶ ، سه مدل برای طبقه بندی متن |
 | 6 | - | sentiment_analysis_model_6 | sentiment-analysis (seq-classification) | Sequence-Classification (encoder-only) | سه مدل برای طبقه بندی متن |
